@@ -8,3 +8,5 @@ modify in dev branch
 modify in dev branch second
 
 modify in dev2 branch first
+
+test stash in master repaire bug
